@@ -19,10 +19,15 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/product" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/img2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\img2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\img2" />
+      <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images" />
       <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\product" />
       <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\img1" />
     </key>
@@ -57,7 +62,10 @@
       <workItem from="1570324879996" duration="293000" />
       <workItem from="1570374378452" duration="59000" />
       <workItem from="1570416737103" duration="14000" />
-      <workItem from="1570420359012" duration="25346000" />
+      <workItem from="1570420359012" duration="27773000" />
+      <workItem from="1570621949309" duration="5370000" />
+      <workItem from="1570627364554" duration="254000" />
+      <workItem from="1570627749741" duration="6335000" />
     </task>
     <servers />
   </component>
