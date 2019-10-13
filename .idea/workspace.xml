@@ -22,14 +22,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images/img2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\img2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\img2" />
       <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images" />
       <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\product" />
       <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\img1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\img2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -66,6 +66,9 @@
       <workItem from="1570621949309" duration="5370000" />
       <workItem from="1570627364554" duration="254000" />
       <workItem from="1570627749741" duration="6335000" />
+      <workItem from="1570637026324" duration="267000" />
+      <workItem from="1570685936258" duration="5002000" />
+      <workItem from="1570936494504" duration="495000" />
     </task>
     <servers />
   </component>

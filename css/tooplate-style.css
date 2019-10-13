@@ -1635,7 +1635,7 @@ http://www.tooplate.com/view/2106-soft-landing
 }
 #implement2 #con2_1 {
   width: 950px;
-  height: 1300px;
+  height: 1330px;
   background: white;
   margin-left: 30px;
   border: 1px solid black;
@@ -1886,6 +1886,13 @@ http://www.tooplate.com/view/2106-soft-landing
   float: left;
   /*margin-left: 15px;*/
 }
+#content2_4 #change {
+    width: 130px;
+    height: 30px;
+    float: right;
+    margin-top: -25px;
+    margin-right: -95px;
+}
 #design2 #fig2 {
   width: 850px;
   height: 1800px;
@@ -1903,6 +1910,43 @@ http://www.tooplate.com/view/2106-soft-landing
   float: left;
 }
 #fig2 .downfg2 {
+  margin-top: 250px;
+  width: 150px;
+  height: 50px;
+  float: right;
+}
+#design2 #vetay2 {
+  width: 850px;
+  height: 660px;
+  margin-left: 50px;
+}
+#design2 #vt2 {
+  color: #29C88D;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-family: "Times New Roman";
+}
+
+#vetay2 .imgvt2_1 {
+  float: left;
+}
+#vetay2 .downvt2 {
+  margin-top: 250px;
+  width: 150px;
+  height: 50px;
+  float: right;
+}
+#us2 #usersce2 {
+  width: 1000px;
+  height: 660px;
+  margin-left: 50px;
+}
+
+#us2 .imgus2_1 {
+  float: left;
+}
+#us2 .downus2 {
   margin-top: 250px;
   width: 150px;
   height: 50px;
