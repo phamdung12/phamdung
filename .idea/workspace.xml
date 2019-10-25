@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="121a5be5-096c-490d-ad6a-5ad2db872e1c" name="Default Changelist" comment="" />
+    <list default="true" id="d4290550-5e57-48de-8710-08e377979a39" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,21 +15,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1RiliYWOjSpYqrTL0Dtgh958mzL" />
+  <component name="ProjectId" id="1SbzSMXrlt3uyI1MCrlaK2tHI1E" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/img2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/img3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\img2" />
-      <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images" />
-      <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\product" />
-      <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\img1" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\WebstormProject\2106_soft_landing\2106_soft_landing\images\img2" />
+      <recent name="E:\WebstormProject\ararat\images\img3" />
+      <recent name="E:\WebstormProject\ararat\img" />
+      <recent name="E:\WebstormProject\ararat" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -49,26 +45,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="121a5be5-096c-490d-ad6a-5ad2db872e1c" name="Default Changelist" comment="" />
-      <created>1570157924946</created>
+      <changelist id="d4290550-5e57-48de-8710-08e377979a39" name="Default Changelist" comment="" />
+      <created>1571847081963</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570157924946</updated>
-      <workItem from="1570157926259" duration="5758000" />
-      <workItem from="1570163963537" duration="780000" />
-      <workItem from="1570164866926" duration="17000" />
-      <workItem from="1570181603543" duration="699000" />
-      <workItem from="1570271817135" duration="193000" />
-      <workItem from="1570324879996" duration="293000" />
-      <workItem from="1570374378452" duration="59000" />
-      <workItem from="1570416737103" duration="14000" />
-      <workItem from="1570420359012" duration="27773000" />
-      <workItem from="1570621949309" duration="5370000" />
-      <workItem from="1570627364554" duration="254000" />
-      <workItem from="1570627749741" duration="6335000" />
-      <workItem from="1570637026324" duration="267000" />
-      <workItem from="1570685936258" duration="5002000" />
-      <workItem from="1570936494504" duration="495000" />
+      <updated>1571847081963</updated>
+      <workItem from="1571847083246" duration="703000" />
+      <workItem from="1571975085923" duration="13712000" />
     </task>
     <servers />
   </component>

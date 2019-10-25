@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/2106_soft_landing.iml" filepath="$PROJECT_DIR$/.idea/2106_soft_landing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ararat.iml" filepath="$PROJECT_DIR$/.idea/ararat.iml" />
     </modules>
   </component>
 </project>
