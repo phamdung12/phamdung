@@ -19,11 +19,13 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ararat1/ararat/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/img3" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\WebstormProject\ararat\images\img3" />
+      <recent name="E:\WebstormProject\ararat\images" />
       <recent name="E:\WebstormProject\ararat\img" />
       <recent name="E:\WebstormProject\ararat" />
     </key>
@@ -51,7 +53,9 @@
       <option name="presentableId" value="Default" />
       <updated>1571847081963</updated>
       <workItem from="1571847083246" duration="703000" />
-      <workItem from="1571975085923" duration="14481000" />
+      <workItem from="1571975085923" duration="19056000" />
+      <workItem from="1572052141507" duration="6805000" />
+      <workItem from="1572159853602" duration="10041000" />
     </task>
     <servers />
   </component>

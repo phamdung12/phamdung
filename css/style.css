@@ -1025,9 +1025,9 @@
     margin-bottom: 10px;
     font-family: "Times New Roman";
 }
-#implement3_1 #con3_1 {
-    width: 950px;
-    height: 1330px;
+#implement3_1 #container3_1 {
+    width: 1060px;
+    height: 1820px;
     background: white;
     margin-left: 30px;
     border: 1px solid black;
@@ -1105,25 +1105,142 @@
 #content3_3 {
     margin-top: 20px;
 }
+#subject {
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
 #content3_4 {
     height: 1000px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
-#content3_4 #boxtin3 {
+#content3_4 #boxleft3_1 {
     width: 60%;
     height: 900px;
     float: left;
+    margin-left: 10px;
 }
 #content3_4 .tin3_1{
-    width: 560px;
-    height: 300px;
+    width: 650px;
+    height: 230px;
 }
 #content3_4 .imgtin3_1{
     float: left;
 }
 #content3_4 .infotin3_1{
-    float: right;
+    margin-left: 5px;
+    width: 350px;
+    float: left;
 }
 #content3_4 .matter3_1 {
-    width: 300px;
+    width: 350px;
+}
+a {
+    text-decoration: none;
+    list-style: none;
+}
+.title3_1 .h a{
+    color: hotpink;
+    font-weight: bold;
+    font-size: 15px;
+}
+.title3_1 .h a:hover {
+    color: #337ab7;
+    cursor: pointer;
+}
+.boxright3_1 {
+    width: 320px;
+    height: 570px;
+    border: solid black 1px;
+    float: right;
+
+    margin-right: 10px;
+}
+.title3_1_1 {
+    width: 274px;
+    height: 65px;
+    font-weight: bold;
+    font-size: 25px;
+    color: lightpink;
+    margin: auto;
+    /*text-align: center;*/
+    padding-top: 20px;
+    border-bottom: dashed black 1px;
+}
+.matter3_1_1 {
+    height: 80px;
+    width: 275px;
+    margin: auto;
+}
+.matter3_1_1 .h {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 35px ;
+}
+.line {
+    width: 150px;
+    margin: auto;
+    margin-top: 20px;
+    border: pink solid 2px;
+    border-radius: 20px;
+}
+.matter3_1_1 .h a:hover {
+    color: hotpink;
+    cursor: pointer;
+}
+.title3_1_ .h a{
+    color: hotpink;
+    font-weight: bold;
+    font-size: 18px;
+}
+.title3_1_ .h a:hover {
+    color: #337ab7;
+    cursor: pointer;
+}
+.matter3_1_ {
+    width: 600px;
+}
+#design3_1 #fig3_1 {
+    width: 850px;
+    height: 800px;
+    margin-left: 50px;
+}
+#design3_1 #fg3_1 {
+    color: #29C88D;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: "Times New Roman";
+}
+
+#fig3_1 .imgfg3_1_1 {
+    float: left;
+}
+#fig3_1 .downfg3_1 {
+    margin-top: 250px;
+    width: 150px;
+    height: 50px;
+    float: right;
+}
+
+#design3_1 #vetay3_1 {
+    width: 850px;
+    height: 660px;
+    margin-left: 50px;
+}
+#design3_1 #vt3_1 {
+    color: #29C88D;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: "Times New Roman";
+}
+#vetay3_1 .imgvt3_1_1 {
+    float: left;
+}
+#vetay3_1 .downvt3_1_1 {
+    margin-top: 250px;
+    width: 150px;
+    height: 50px;
+    float: right;
 }
