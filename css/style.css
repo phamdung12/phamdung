@@ -124,11 +124,11 @@
     float: right;
 }
 
-#design #downall {
+#design1 #downall {
     height: 100px;
 }
 #design1 .downallfile {
-    margin-left: 300px;
+    margin-left: 400px;
     width: 250px;
     height: 50px;
 }
@@ -960,7 +960,7 @@
 }
 #design2 #fig2 {
     width: 850px;
-    height: 1800px;
+    height: 800px;
     margin-left: 50px;
 }
 #design2 #fg2 {
@@ -1017,6 +1017,15 @@
     height: 50px;
     float: right;
 }
+#design2 #downall2 {
+    height: 100px;
+}
+#design2 .downallfile2 {
+    margin-left: 400px;
+    width: 250px;
+    height: 50px;
+}
+
 /*-----LABS3-----*/
 #implement3_1 #head3_1 {
     color: #29C88D;
@@ -1243,4 +1252,12 @@ a {
     width: 150px;
     height: 50px;
     float: right;
+}
+#design3_1 #downall3_1 {
+    height: 100px;
+}
+#design3_1 .downallfile3_1 {
+    margin-left: 400px;
+    width: 250px;
+    height: 50px;
 }
