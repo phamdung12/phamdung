@@ -12,6 +12,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -20,6 +21,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images/img3" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -56,7 +58,9 @@
       <workItem from="1571847083246" duration="703000" />
       <workItem from="1571975085923" duration="19056000" />
       <workItem from="1572052141507" duration="6805000" />
-      <workItem from="1572159853602" duration="14855000" />
+      <workItem from="1572159853602" duration="15230000" />
+      <workItem from="1572236302489" duration="8723000" />
+      <workItem from="1572317634428" duration="1618000" />
     </task>
     <servers />
   </component>
