@@ -20,17 +20,17 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WebstormProject\ararat\images" />
       <recent name="E:\WebstormProject\ararat\images\img4" />
       <recent name="E:\WebstormProject\ararat\images\img3" />
       <recent name="E:\WebstormProject\ararat\images\img2" />
       <recent name="E:\WebstormProject\ararat\images\img1" />
-      <recent name="E:\WebstormProject\ararat\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -79,7 +79,9 @@
       <workItem from="1576066391472" duration="3099000" />
       <workItem from="1576251099668" duration="4690000" />
       <workItem from="1576339810561" duration="2636000" />
-      <workItem from="1576416796755" duration="3541000" />
+      <workItem from="1576416796755" duration="3643000" />
+      <workItem from="1576507255523" duration="4470000" />
+      <workItem from="1576554369880" duration="2016000" />
     </task>
     <servers />
   </component>
